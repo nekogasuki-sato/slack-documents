@@ -33,6 +33,7 @@
 }
 .reveal img, .reveal video, .reveal iframe {
   max-height: 480px;
+  max-width: 80%;
 }
 .reveal p {
   font-size: 70%;
