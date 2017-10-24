@@ -29,7 +29,7 @@
   box-shadow: 0;
 }
 .reveal img, .reveal video, .reveal iframe {
-  max-height: 520px;
+  max-height: 480px;
 }
 .reveal p {
   font-size: 80%;

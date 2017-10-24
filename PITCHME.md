@@ -4,7 +4,8 @@
 ---
 
 ## 目次
-「m」を押してメニューアイコン<img src="images/menu-icon.png" alt="">をクリックすると目次が表示されます  
+「m」キーを押すとメニューが出ます。  
+メニューアイコン<img src="images/menu-icon.png" alt="アイコン">をクリックすると目次が表示されます。  
 <img src="images/00_lists.png" alt="目次">
 
 ---
@@ -51,7 +52,7 @@
 
 +++
 
-#### 3. 「Join Channel」をクリックして参加完了！  
+#### 3. 「Join Channel」をクリックして参加完了  
 <img src="images/07_join.png" alt="チャンネル参加手順-3">
 
 +++
