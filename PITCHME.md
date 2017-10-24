@@ -77,17 +77,18 @@
 
 +++
 
-#### 1. 自分のアイコンをクリック  
+#### 1. チャンネルメニューのチーム名をクリックして<br>「Profile & account」をクリック  
 <img src="images/08_edit-profile.png" alt="プロフィール変更手順-1">
 
 +++
 
-#### 2. 「Edit your Profile」をクリック  
+#### 2. サイドバーから「Edit Profile」をクリック  
 <img src="images/09_edit-profile.png" alt="プロフィール変更手順-2">
 
 +++
 
 #### 3. 変更が完了したら「Save Changes」をクリック  
+最低限アイコンを設定すると見分けやすくて◎  
 <img src="images/10_edit-profile.png" alt="プロフィール変更手順-3">
 
 ---
@@ -124,7 +125,7 @@
 
 +++
 
-@ を入力すると候補が出ます  
+#### @ を入力すると候補が出ます
 <img src="images/17_mention.png" alt="メンション">
 
 +++
