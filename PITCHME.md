@@ -48,33 +48,33 @@
 
 ### チャンネルに参加する
 #### 1. チャンネルメニューの「Channels」をクリック  
-<img src="images/05_join.png" alt="手順1">
+<img src="images/05_join.png" alt="チャンネル参加手順-1">
 
 +++
 
 #### 2. チャンネル名を検索して、<br>参加したいチャンネルをクリック  
-<img src="images/06_join.png" alt="手順2">
+<img src="images/06_join.png" alt="チャンネル参加手順-2">
 
 +++
 
 #### 3. 「Join Channel」をクリックして参加完了！  
-<img src="images/07_join.png" alt="手順3">
+<img src="images/07_join.png" alt="チャンネル参加手順-3">
 
 +++
 
 ### プロフィール変更
 #### 1. 自分のアイコンをクリック  
-<img src="images/08_edit-profile.png" alt="手順1">
+<img src="images/08_edit-profile.png" alt="プロフィール変更手順-1">
 
 +++
 
 #### 2. 「Edit your Profile」をクリック  
-<img src="images/09_edit-profile.png" alt="手順2">
+<img src="images/09_edit-profile.png" alt="プロフィール変更手順-2">
 
 +++
 
 #### 3. 変更が完了したら「Save Changes」をクリック  
-<img src="images/10_edit-profile.png" alt="手順3">
+<img src="images/10_edit-profile.png" alt="プロフィール変更手順-3">
 
 ---
 
@@ -84,32 +84,36 @@
 
 ### クイックスイッチ
 #### 1. Ctrl+K でクイックスイッチャーを起動
-<img src="images/11_switcher.png" alt="手順1">
+<img src="images/11_switcher.png" alt="クイックスイッチ手順-1">
 
 +++
 
 #### 2. ジャンプしたいチャンネル名を入力<br>& 選択してEnter でジャンプ
-<img src="images/12_switcher.png" alt="手順2">
+<img src="images/12_switcher.png" alt="クイックスイッチ手順-2">
 
 +++
 
 #### ※ ダイレクトメッセージにも使えます
-<img src="images/13_switcher.png" alt="手順2">
+<img src="images/13_switcher.png" alt="クイックスイッチ手順-2">
 
 +++
 
 ### 通知設定
-<img src="images/14_notification.png" alt="基本メニュー">
 
 +++
 
-#### 通知設定
-<img src="images/15_notification.png" alt="基本メニュー">
+#### 1. チャンネル名をクリックして、<br>「Notification preferences ...」をクリック
+<img src="images/14_notification.png" alt="通知設定手順-1">
 
 +++
 
-#### 通知設定
-<img src="images/16_notification.png" alt="基本メニュー">
+#### 2. 適宜チェックを入れて「Done」をクリックして設定完了
+<img src="images/15_notification.png" alt="通知設定手順-2">
+
++++
+
+#### ※ チャンネル詳細メニューの「Edit preferences」からも変更できます
+<img src="images/16_notification.png" alt="通知設定手順-3">
 
 ---
 
