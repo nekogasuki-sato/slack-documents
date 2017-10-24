@@ -77,7 +77,7 @@
 
 +++
 
-#### 1. チャンネルメニューのチーム名をクリックして<br>「Profile & account」をクリック  
+#### 1. チャンネルメニューのチーム名から<br>「Profile & account」をクリック  
 <img src="images/08_edit-profile.png" alt="プロフィール変更手順-1">
 
 +++
@@ -88,7 +88,7 @@
 +++
 
 #### 3. 変更が完了したら「Save Changes」をクリック  
-最低限アイコンを設定すると見分けやすくて◎  
+最低限アイコンを設定すると見分けやすくて◎です  
 <img src="images/10_edit-profile.png" alt="プロフィール変更手順-3">
 
 ---
