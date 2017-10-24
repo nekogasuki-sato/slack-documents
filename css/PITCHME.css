@@ -9,7 +9,6 @@
 .reveal h6 {
   text-transform: none;
 }
-
 .reveal h1 {
   font-size: 1.8em;
 }
@@ -29,7 +28,9 @@
   border: 0;
   box-shadow: 0;
 }
-
 .reveal img, .reveal video, .reveal iframe {
   max-height: 520px;
+}
+.reveal p {
+  font-size: 80%;
 }

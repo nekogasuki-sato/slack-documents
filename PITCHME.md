@@ -47,33 +47,33 @@
 +++
 
 ### チャンネルJoin
-チャンネルメニューの**Channels** をクリック  
+#### 1. チャンネルメニューの**Channels** をクリック  
 <img src="images/05_join.png" alt="手順1">
 
 +++
 
-チャンネル名を検索して、参加したいチャンネルをクリック  
+#### 2. チャンネル名を検索して、参加したいチャンネルをクリック  
 <img src="images/06_join.png" alt="手順2">
 
 +++
 
-**Join Channel** をクリックして参加完了！  
+#### 3. **Join Channel** をクリックして参加完了！  
 <img src="images/07_join.png" alt="手順3">
 
 +++
 
 ### プロフィール変更
-自分のアイコンをクリック  
+#### 1. 自分のアイコンをクリック  
 <img src="images/08_edit-profile.png" alt="手順1">
 
 +++
 
-**Edit your Profile** をクリック  
+#### 2. **Edit your Profile** をクリック  
 <img src="images/09_edit-profile.png" alt="手順2">
 
 +++
 
-変更が完了したら**Save Changes** をクリック  
+#### 3. 変更が完了したら**Save Changes** をクリック  
 <img src="images/10_edit-profile.png" alt="手順3">
 
 ---
