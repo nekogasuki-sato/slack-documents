@@ -28,6 +28,9 @@
   border: 0;
   box-shadow: 0;
 }
+.reveal ul {
+  font-size: 80%;
+}
 .reveal img, .reveal video, .reveal iframe {
   max-height: 480px;
 }
