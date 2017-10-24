@@ -1,2 +1,2 @@
 # private documents
-https://gitpitch.com/yayuyo27/slack-documents/master?grs=github
+https://gitpitch.com/nekogasuki-sato/slack-documents/master?grs=github
